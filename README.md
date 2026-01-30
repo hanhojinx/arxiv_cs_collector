@@ -30,3 +30,8 @@ git clone \[https://github.com/YOUR\_USERNAME/arxiv\_cs\_collector.git](https://
 cd arxiv\_cs\_collector
 ```
 
+2. Run main.py
+
+```
+python main.py --YOUR_CUSTOM_OPTIONS
+```
