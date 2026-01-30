@@ -1,4 +1,4 @@
-\# arXiv CS Paper Fetcher
+# arXiv CS Paper Fetcher
 
 
 
@@ -6,21 +6,21 @@ A script that automatically collects titles and abstracts of the latest Computer
 
 
 
-\## Features
+## Features
 
-\- Search for the latest CS papers using the arXiv API
+- Search for the latest CS papers using the arXiv API
 
-\- Extract titles, links, and abstracts
+- Extract titles, links, and abstracts
 
-\- Save results to a clean, readable `.txt` file
-
-
-
-\## Installation \& Usage
+- Save results to a clean, readable `.txt` file
 
 
 
-1\. Clone the repository
+## Installation \& Usage
+
+
+
+1. Clone the repository
 
 &nbsp;  ```bash
 
