@@ -22,9 +22,11 @@ A script that automatically collects titles and abstracts of the latest Computer
 
 1. Clone the repository
 
-&nbsp;  ```bash
+```
+bash
 
-&nbsp;  git clone \[https://github.com/YOUR\_USERNAME/arxiv\_cs\_collector.git](https://github.com/YOUR\_USERNAME/arxiv\_cs\_collector.git)
+git clone \[https://github.com/YOUR\_USERNAME/arxiv\_cs\_collector.git](https://github.com/YOUR\_USERNAME/arxiv\_cs\_collector.git)
 
-&nbsp;  cd arxiv\_cs\_collector```
+cd arxiv\_cs\_collector
+```
 
